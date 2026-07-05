@@ -22,7 +22,8 @@ Give it a topic, two positions, and a tone; the app runs a multi-round debate be
 - A local model file in GGUF format. You can download one from HuggingFace, for example:
   - [Qwen2.5-14B-Instruct-GGUF](https://huggingface.co/bartowski/Qwen2.5-14B-Instruct-GGUF)
   - [Meta-Llama-3.1-8B-Instruct-GGUF](https://huggingface.co/bartowski/Meta-Llama-3.1-8B-Instruct-GGUF)
-
+  - [PHI-4-GGUF](https://huggingface.co/lmstudio-community/phi-4-GGUF)
+  
 ## Getting started
 
 Clone the repository and restore/build with the .NET CLI:
